@@ -43,11 +43,6 @@
 #     3    1
 #     4    3
 # 
-# Your score will be calculated using [Kendall's tau](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient), a correlation measure for ordinal data.
-# 
-# *This function should return a Series of length 500 and dtype int.*
-
-# In[2]:
 
 
 import pandas as pd
